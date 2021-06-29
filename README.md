@@ -1,5 +1,5 @@
 # MobileCalculator
-A simple calculator applciation which uses an expression parser to caluculate the results of the entered expression. 
+A simple calculator application which uses an expression parser to caluculate the results of the entered expression. 
 
 ## Screenshots
 
